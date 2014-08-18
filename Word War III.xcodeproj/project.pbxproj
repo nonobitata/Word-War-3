@@ -1,0 +1,485 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		19D68FB719A1C7DE00FDED4C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19D68FB619A1C7DE00FDED4C /* Foundation.framework */; };
+		19D68FB919A1C7DE00FDED4C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19D68FB819A1C7DE00FDED4C /* CoreGraphics.framework */; };
+		19D68FBB19A1C7DE00FDED4C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19D68FBA19A1C7DE00FDED4C /* UIKit.framework */; };
+		19D68FC119A1C7DE00FDED4C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 19D68FBF19A1C7DE00FDED4C /* InfoPlist.strings */; };
+		19D68FC319A1C7DE00FDED4C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 19D68FC219A1C7DE00FDED4C /* main.m */; };
+		19D68FC719A1C7DE00FDED4C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 19D68FC619A1C7DE00FDED4C /* AppDelegate.m */; };
+		19D68FCA19A1C7DE00FDED4C /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 19D68FC819A1C7DE00FDED4C /* Main_iPhone.storyboard */; };
+		19D68FCD19A1C7DE00FDED4C /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 19D68FCB19A1C7DE00FDED4C /* Main_iPad.storyboard */; };
+		19D68FD019A1C7DE00FDED4C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 19D68FCF19A1C7DE00FDED4C /* ViewController.m */; };
+		19D68FD219A1C7DE00FDED4C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 19D68FD119A1C7DE00FDED4C /* Images.xcassets */; };
+		19D68FD919A1C7DE00FDED4C /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19D68FD819A1C7DE00FDED4C /* XCTest.framework */; };
+		19D68FDA19A1C7DE00FDED4C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19D68FB619A1C7DE00FDED4C /* Foundation.framework */; };
+		19D68FDB19A1C7DE00FDED4C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19D68FBA19A1C7DE00FDED4C /* UIKit.framework */; };
+		19D68FE319A1C7DE00FDED4C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 19D68FE119A1C7DE00FDED4C /* InfoPlist.strings */; };
+		19D68FE519A1C7DE00FDED4C /* Word_War_IIITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 19D68FE419A1C7DE00FDED4C /* Word_War_IIITests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		19D68FDC19A1C7DE00FDED4C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 19D68FAB19A1C7DE00FDED4C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 19D68FB219A1C7DE00FDED4C;
+			remoteInfo = "Word War III";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		19D68FB319A1C7DE00FDED4C /* Word War III.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Word War III.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		19D68FB619A1C7DE00FDED4C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		19D68FB819A1C7DE00FDED4C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		19D68FBA19A1C7DE00FDED4C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		19D68FBE19A1C7DE00FDED4C /* Word War III-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Word War III-Info.plist"; sourceTree = "<group>"; };
+		19D68FC019A1C7DE00FDED4C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		19D68FC219A1C7DE00FDED4C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		19D68FC419A1C7DE00FDED4C /* Word War III-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Word War III-Prefix.pch"; sourceTree = "<group>"; };
+		19D68FC519A1C7DE00FDED4C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		19D68FC619A1C7DE00FDED4C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		19D68FC919A1C7DE00FDED4C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
+		19D68FCC19A1C7DE00FDED4C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPad.storyboard; sourceTree = "<group>"; };
+		19D68FCE19A1C7DE00FDED4C /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		19D68FCF19A1C7DE00FDED4C /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		19D68FD119A1C7DE00FDED4C /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		19D68FD719A1C7DE00FDED4C /* Word War IIITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Word War IIITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		19D68FD819A1C7DE00FDED4C /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		19D68FE019A1C7DE00FDED4C /* Word War IIITests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Word War IIITests-Info.plist"; sourceTree = "<group>"; };
+		19D68FE219A1C7DE00FDED4C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		19D68FE419A1C7DE00FDED4C /* Word_War_IIITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Word_War_IIITests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		19D68FB019A1C7DE00FDED4C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				19D68FB919A1C7DE00FDED4C /* CoreGraphics.framework in Frameworks */,
+				19D68FBB19A1C7DE00FDED4C /* UIKit.framework in Frameworks */,
+				19D68FB719A1C7DE00FDED4C /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		19D68FD419A1C7DE00FDED4C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				19D68FD919A1C7DE00FDED4C /* XCTest.framework in Frameworks */,
+				19D68FDB19A1C7DE00FDED4C /* UIKit.framework in Frameworks */,
+				19D68FDA19A1C7DE00FDED4C /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		19D68FAA19A1C7DE00FDED4C = {
+			isa = PBXGroup;
+			children = (
+				19D68FBC19A1C7DE00FDED4C /* Word War III */,
+				19D68FDE19A1C7DE00FDED4C /* Word War IIITests */,
+				19D68FB519A1C7DE00FDED4C /* Frameworks */,
+				19D68FB419A1C7DE00FDED4C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		19D68FB419A1C7DE00FDED4C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				19D68FB319A1C7DE00FDED4C /* Word War III.app */,
+				19D68FD719A1C7DE00FDED4C /* Word War IIITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		19D68FB519A1C7DE00FDED4C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				19D68FB619A1C7DE00FDED4C /* Foundation.framework */,
+				19D68FB819A1C7DE00FDED4C /* CoreGraphics.framework */,
+				19D68FBA19A1C7DE00FDED4C /* UIKit.framework */,
+				19D68FD819A1C7DE00FDED4C /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		19D68FBC19A1C7DE00FDED4C /* Word War III */ = {
+			isa = PBXGroup;
+			children = (
+				19D68FC519A1C7DE00FDED4C /* AppDelegate.h */,
+				19D68FC619A1C7DE00FDED4C /* AppDelegate.m */,
+				19D68FC819A1C7DE00FDED4C /* Main_iPhone.storyboard */,
+				19D68FCB19A1C7DE00FDED4C /* Main_iPad.storyboard */,
+				19D68FCE19A1C7DE00FDED4C /* ViewController.h */,
+				19D68FCF19A1C7DE00FDED4C /* ViewController.m */,
+				19D68FD119A1C7DE00FDED4C /* Images.xcassets */,
+				19D68FBD19A1C7DE00FDED4C /* Supporting Files */,
+			);
+			path = "Word War III";
+			sourceTree = "<group>";
+		};
+		19D68FBD19A1C7DE00FDED4C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				19D68FBE19A1C7DE00FDED4C /* Word War III-Info.plist */,
+				19D68FBF19A1C7DE00FDED4C /* InfoPlist.strings */,
+				19D68FC219A1C7DE00FDED4C /* main.m */,
+				19D68FC419A1C7DE00FDED4C /* Word War III-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		19D68FDE19A1C7DE00FDED4C /* Word War IIITests */ = {
+			isa = PBXGroup;
+			children = (
+				19D68FE419A1C7DE00FDED4C /* Word_War_IIITests.m */,
+				19D68FDF19A1C7DE00FDED4C /* Supporting Files */,
+			);
+			path = "Word War IIITests";
+			sourceTree = "<group>";
+		};
+		19D68FDF19A1C7DE00FDED4C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				19D68FE019A1C7DE00FDED4C /* Word War IIITests-Info.plist */,
+				19D68FE119A1C7DE00FDED4C /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		19D68FB219A1C7DE00FDED4C /* Word War III */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 19D68FE819A1C7DE00FDED4C /* Build configuration list for PBXNativeTarget "Word War III" */;
+			buildPhases = (
+				19D68FAF19A1C7DE00FDED4C /* Sources */,
+				19D68FB019A1C7DE00FDED4C /* Frameworks */,
+				19D68FB119A1C7DE00FDED4C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Word War III";
+			productName = "Word War III";
+			productReference = 19D68FB319A1C7DE00FDED4C /* Word War III.app */;
+			productType = "com.apple.product-type.application";
+		};
+		19D68FD619A1C7DE00FDED4C /* Word War IIITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 19D68FEB19A1C7DE00FDED4C /* Build configuration list for PBXNativeTarget "Word War IIITests" */;
+			buildPhases = (
+				19D68FD319A1C7DE00FDED4C /* Sources */,
+				19D68FD419A1C7DE00FDED4C /* Frameworks */,
+				19D68FD519A1C7DE00FDED4C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				19D68FDD19A1C7DE00FDED4C /* PBXTargetDependency */,
+			);
+			name = "Word War IIITests";
+			productName = "Word War IIITests";
+			productReference = 19D68FD719A1C7DE00FDED4C /* Word War IIITests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		19D68FAB19A1C7DE00FDED4C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = "___FULLUSERNAME___";
+				TargetAttributes = {
+					19D68FD619A1C7DE00FDED4C = {
+						TestTargetID = 19D68FB219A1C7DE00FDED4C;
+					};
+				};
+			};
+			buildConfigurationList = 19D68FAE19A1C7DE00FDED4C /* Build configuration list for PBXProject "Word War III" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 19D68FAA19A1C7DE00FDED4C;
+			productRefGroup = 19D68FB419A1C7DE00FDED4C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				19D68FB219A1C7DE00FDED4C /* Word War III */,
+				19D68FD619A1C7DE00FDED4C /* Word War IIITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		19D68FB119A1C7DE00FDED4C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				19D68FCD19A1C7DE00FDED4C /* Main_iPad.storyboard in Resources */,
+				19D68FD219A1C7DE00FDED4C /* Images.xcassets in Resources */,
+				19D68FCA19A1C7DE00FDED4C /* Main_iPhone.storyboard in Resources */,
+				19D68FC119A1C7DE00FDED4C /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		19D68FD519A1C7DE00FDED4C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				19D68FE319A1C7DE00FDED4C /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		19D68FAF19A1C7DE00FDED4C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				19D68FD019A1C7DE00FDED4C /* ViewController.m in Sources */,
+				19D68FC719A1C7DE00FDED4C /* AppDelegate.m in Sources */,
+				19D68FC319A1C7DE00FDED4C /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		19D68FD319A1C7DE00FDED4C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				19D68FE519A1C7DE00FDED4C /* Word_War_IIITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		19D68FDD19A1C7DE00FDED4C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 19D68FB219A1C7DE00FDED4C /* Word War III */;
+			targetProxy = 19D68FDC19A1C7DE00FDED4C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		19D68FBF19A1C7DE00FDED4C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				19D68FC019A1C7DE00FDED4C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		19D68FC819A1C7DE00FDED4C /* Main_iPhone.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				19D68FC919A1C7DE00FDED4C /* Base */,
+			);
+			name = Main_iPhone.storyboard;
+			sourceTree = "<group>";
+		};
+		19D68FCB19A1C7DE00FDED4C /* Main_iPad.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				19D68FCC19A1C7DE00FDED4C /* Base */,
+			);
+			name = Main_iPad.storyboard;
+			sourceTree = "<group>";
+		};
+		19D68FE119A1C7DE00FDED4C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				19D68FE219A1C7DE00FDED4C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		19D68FE619A1C7DE00FDED4C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		19D68FE719A1C7DE00FDED4C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		19D68FE919A1C7DE00FDED4C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Word War III/Word War III-Prefix.pch";
+				INFOPLIST_FILE = "Word War III/Word War III-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		19D68FEA19A1C7DE00FDED4C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Word War III/Word War III-Prefix.pch";
+				INFOPLIST_FILE = "Word War III/Word War III-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		19D68FEC19A1C7DE00FDED4C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Word War III.app/Word War III";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Word War III/Word War III-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Word War IIITests/Word War IIITests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		19D68FED19A1C7DE00FDED4C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Word War III.app/Word War III";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Word War III/Word War III-Prefix.pch";
+				INFOPLIST_FILE = "Word War IIITests/Word War IIITests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		19D68FAE19A1C7DE00FDED4C /* Build configuration list for PBXProject "Word War III" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				19D68FE619A1C7DE00FDED4C /* Debug */,
+				19D68FE719A1C7DE00FDED4C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		19D68FE819A1C7DE00FDED4C /* Build configuration list for PBXNativeTarget "Word War III" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				19D68FE919A1C7DE00FDED4C /* Debug */,
+				19D68FEA19A1C7DE00FDED4C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		19D68FEB19A1C7DE00FDED4C /* Build configuration list for PBXNativeTarget "Word War IIITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				19D68FEC19A1C7DE00FDED4C /* Debug */,
+				19D68FED19A1C7DE00FDED4C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 19D68FAB19A1C7DE00FDED4C /* Project object */;
+}
