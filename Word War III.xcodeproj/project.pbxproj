@@ -7,6 +7,51 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		190EE0E119A9E66D000DD52F /* 29x29.png in Resources */ = {isa = PBXBuildFile; fileRef = 190EE0D619A9E66D000DD52F /* 29x29.png */; };
+		190EE0E219A9E66D000DD52F /* 40x40.png in Resources */ = {isa = PBXBuildFile; fileRef = 190EE0D719A9E66D000DD52F /* 40x40.png */; };
+		190EE0E319A9E66D000DD52F /* 57x57.png in Resources */ = {isa = PBXBuildFile; fileRef = 190EE0D819A9E66D000DD52F /* 57x57.png */; };
+		190EE0E419A9E66D000DD52F /* 58x58.png in Resources */ = {isa = PBXBuildFile; fileRef = 190EE0D919A9E66D000DD52F /* 58x58.png */; };
+		190EE0E519A9E66D000DD52F /* 60x60.png in Resources */ = {isa = PBXBuildFile; fileRef = 190EE0DA19A9E66D000DD52F /* 60x60.png */; };
+		190EE0E619A9E66D000DD52F /* 72x72.png in Resources */ = {isa = PBXBuildFile; fileRef = 190EE0DB19A9E66D000DD52F /* 72x72.png */; };
+		190EE0E719A9E66D000DD52F /* 76x76.png in Resources */ = {isa = PBXBuildFile; fileRef = 190EE0DC19A9E66D000DD52F /* 76x76.png */; };
+		190EE0E819A9E66D000DD52F /* 80x80.png in Resources */ = {isa = PBXBuildFile; fileRef = 190EE0DD19A9E66D000DD52F /* 80x80.png */; };
+		190EE0E919A9E66D000DD52F /* 120x120.png in Resources */ = {isa = PBXBuildFile; fileRef = 190EE0DE19A9E66D000DD52F /* 120x120.png */; };
+		190EE0EA19A9E66D000DD52F /* 152x152.png in Resources */ = {isa = PBXBuildFile; fileRef = 190EE0DF19A9E66D000DD52F /* 152x152.png */; };
+		190EE0EB19A9E66D000DD52F /* 1024x1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 190EE0E019A9E66D000DD52F /* 1024x1024.png */; };
+		19384CF319A348A400195E05 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19384CF219A348A400195E05 /* MediaPlayer.framework */; };
+		196B7ABB19A48A85005F482F /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 196B7AB919A48A85005F482F /* libGoogleAdMobAds.a */; };
+		196B7ABC19A48A85005F482F /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = 196B7ABA19A48A85005F482F /* README.txt */; };
+		196B7AC219A49A01005F482F /* Instruction.m in Sources */ = {isa = PBXBuildFile; fileRef = 196B7AC119A49A01005F482F /* Instruction.m */; };
+		199C1EB919ABD3A600CC87C4 /* Background_Statistics3.png in Resources */ = {isa = PBXBuildFile; fileRef = 199C1EB819ABD3A600CC87C4 /* Background_Statistics3.png */; };
+		199C1EBB19ABD46000CC87C4 /* Background_StatisticsIpad.png in Resources */ = {isa = PBXBuildFile; fileRef = 199C1EBA19ABD46000CC87C4 /* Background_StatisticsIpad.png */; };
+		199C1EC119ABFA3A00CC87C4 /* MonkeySpinning.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 199C1EC019ABFA3A00CC87C4 /* MonkeySpinning.mp3 */; };
+		199C1EC319ABFD7200CC87C4 /* Tap.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 199C1EC219ABFD7200CC87C4 /* Tap.mp3 */; };
+		199C1EC519ABFDD700CC87C4 /* Tap2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 199C1EC419ABFDD700CC87C4 /* Tap2.mp3 */; };
+		199C1EC719ABFF3E00CC87C4 /* Losing.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 199C1EC619ABFF3E00CC87C4 /* Losing.mp3 */; };
+		199C1EC919AC02D900CC87C4 /* Continue.png in Resources */ = {isa = PBXBuildFile; fileRef = 199C1EC819AC02D900CC87C4 /* Continue.png */; };
+		199C1ECB19AC095500CC87C4 /* LargeCrowdApplause.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 199C1ECA19AC095500CC87C4 /* LargeCrowdApplause.mp3 */; };
+		199C1ECE19AC72D100CC87C4 /* SoundOFF.png in Resources */ = {isa = PBXBuildFile; fileRef = 199C1ECC19AC72D100CC87C4 /* SoundOFF.png */; };
+		199C1ECF19AC72D100CC87C4 /* SoundON.png in Resources */ = {isa = PBXBuildFile; fileRef = 199C1ECD19AC72D100CC87C4 /* SoundON.png */; };
+		199C1ED719AD29DF00CC87C4 /* Instruction_ InGameGuessing_GetHelp.png in Resources */ = {isa = PBXBuildFile; fileRef = 199C1ED419AD29DF00CC87C4 /* Instruction_ InGameGuessing_GetHelp.png */; };
+		199C1ED819AD29DF00CC87C4 /* Instruction_Ingame_AfterAnswer.png in Resources */ = {isa = PBXBuildFile; fileRef = 199C1ED519AD29DF00CC87C4 /* Instruction_Ingame_AfterAnswer.png */; };
+		199C1ED919AD29DF00CC87C4 /* Instruction_InGameGuessing.png in Resources */ = {isa = PBXBuildFile; fileRef = 199C1ED619AD29DF00CC87C4 /* Instruction_InGameGuessing.png */; };
+		199C1EDC19AD754200CC87C4 /* InformationIpad.png in Resources */ = {isa = PBXBuildFile; fileRef = 199C1EDA19AD754200CC87C4 /* InformationIpad.png */; };
+		199C1EDD19AD754200CC87C4 /* InformationIphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 199C1EDB19AD754200CC87C4 /* InformationIphone.png */; };
+		199C1EDF19AD79B700CC87C4 /* Start Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 199C1EDE19AD79B700CC87C4 /* Start Button.png */; };
+		199E460C19A926740002E81E /* 109582.txt in Resources */ = {isa = PBXBuildFile; fileRef = 199E460B19A926740002E81E /* 109582.txt */; };
+		199E461119A92EBD0002E81E /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 199E460D19A92EBD0002E81E /* Default-568h@2x.png */; };
+		199E461219A92EBD0002E81E /* Default-Portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 199E460E19A92EBD0002E81E /* Default-Portrait.png */; };
+		199E461319A92EBD0002E81E /* Default-Portrait@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 199E460F19A92EBD0002E81E /* Default-Portrait@2x.png */; };
+		199E461419A92EBD0002E81E /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 199E461019A92EBD0002E81E /* Default@2x.png */; };
+		19A3002F19AB0C7400B4D5DA /* GetLife1.png in Resources */ = {isa = PBXBuildFile; fileRef = 19A3002D19AB0C7400B4D5DA /* GetLife1.png */; };
+		19A3003019AB0C7400B4D5DA /* GetLife2.png in Resources */ = {isa = PBXBuildFile; fileRef = 19A3002E19AB0C7400B4D5DA /* GetLife2.png */; };
+		19A3003219AB0DF000B4D5DA /* Home.png in Resources */ = {isa = PBXBuildFile; fileRef = 19A3003119AB0DF000B4D5DA /* Home.png */; };
+		19A3003519AB198800B4D5DA /* Randomize_Instruction.png in Resources */ = {isa = PBXBuildFile; fileRef = 19A3003319AB198800B4D5DA /* Randomize_Instruction.png */; };
+		19A3003619AB198800B4D5DA /* WordGuessInstruction.png in Resources */ = {isa = PBXBuildFile; fileRef = 19A3003419AB198800B4D5DA /* WordGuessInstruction.png */; };
+		19A3003A19AB200800B4D5DA /* Name.png in Resources */ = {isa = PBXBuildFile; fileRef = 19A3003919AB200800B4D5DA /* Name.png */; };
+		19A3003E19AB273C00B4D5DA /* Level Up.png in Resources */ = {isa = PBXBuildFile; fileRef = 19A3003D19AB273C00B4D5DA /* Level Up.png */; };
+		19A33CA419A643D4009C4421 /* Exit.png in Resources */ = {isa = PBXBuildFile; fileRef = 19A33CA319A643D4009C4421 /* Exit.png */; };
+		19A33CA719A64769009C4421 /* Lives1.png in Resources */ = {isa = PBXBuildFile; fileRef = 19A33CA519A64769009C4421 /* Lives1.png */; };
 		19D68FB719A1C7DE00FDED4C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19D68FB619A1C7DE00FDED4C /* Foundation.framework */; };
 		19D68FB919A1C7DE00FDED4C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19D68FB819A1C7DE00FDED4C /* CoreGraphics.framework */; };
 		19D68FBB19A1C7DE00FDED4C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19D68FBA19A1C7DE00FDED4C /* UIKit.framework */; };
@@ -22,6 +67,44 @@
 		19D68FDB19A1C7DE00FDED4C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19D68FBA19A1C7DE00FDED4C /* UIKit.framework */; };
 		19D68FE319A1C7DE00FDED4C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 19D68FE119A1C7DE00FDED4C /* InfoPlist.strings */; };
 		19D68FE519A1C7DE00FDED4C /* Word_War_IIITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 19D68FE419A1C7DE00FDED4C /* Word_War_IIITests.m */; };
+		19D68FEF19A1C90900FDED4C /* General_Background.png in Resources */ = {isa = PBXBuildFile; fileRef = 19D68FEE19A1C90900FDED4C /* General_Background.png */; };
+		19D68FF119A1C92B00FDED4C /* BackgroundRandomGame.png in Resources */ = {isa = PBXBuildFile; fileRef = 19D68FF019A1C92B00FDED4C /* BackgroundRandomGame.png */; };
+		19D68FF319A1C93400FDED4C /* BackgroundGuessingGame.png in Resources */ = {isa = PBXBuildFile; fileRef = 19D68FF219A1C93400FDED4C /* BackgroundGuessingGame.png */; };
+		19D68FFC19A1CA2A00FDED4C /* buttons1.png in Resources */ = {isa = PBXBuildFile; fileRef = 19D68FF419A1CA2A00FDED4C /* buttons1.png */; };
+		19D68FFD19A1CA2A00FDED4C /* buttons2.png in Resources */ = {isa = PBXBuildFile; fileRef = 19D68FF519A1CA2A00FDED4C /* buttons2.png */; };
+		19D68FFE19A1CA2A00FDED4C /* buttons3.png in Resources */ = {isa = PBXBuildFile; fileRef = 19D68FF619A1CA2A00FDED4C /* buttons3.png */; };
+		19D68FFF19A1CA2A00FDED4C /* buttons4.png in Resources */ = {isa = PBXBuildFile; fileRef = 19D68FF719A1CA2A00FDED4C /* buttons4.png */; };
+		19D6900019A1CA2A00FDED4C /* buttons5.png in Resources */ = {isa = PBXBuildFile; fileRef = 19D68FF819A1CA2A00FDED4C /* buttons5.png */; };
+		19D6900119A1CA2A00FDED4C /* buttons6.png in Resources */ = {isa = PBXBuildFile; fileRef = 19D68FF919A1CA2A00FDED4C /* buttons6.png */; };
+		19D6900219A1CA2A00FDED4C /* buttons7.png in Resources */ = {isa = PBXBuildFile; fileRef = 19D68FFA19A1CA2A00FDED4C /* buttons7.png */; };
+		19D6900319A1CA2A00FDED4C /* buttons8.png in Resources */ = {isa = PBXBuildFile; fileRef = 19D68FFB19A1CA2A00FDED4C /* buttons8.png */; };
+		19D6900619A1CB1000FDED4C /* RandomGame.m in Sources */ = {isa = PBXBuildFile; fileRef = 19D6900519A1CB1000FDED4C /* RandomGame.m */; };
+		19D6900919A1CD4B00FDED4C /* GuessingGame.m in Sources */ = {isa = PBXBuildFile; fileRef = 19D6900819A1CD4B00FDED4C /* GuessingGame.m */; };
+		19D6900C19A1CE5500FDED4C /* Dictionary.m in Sources */ = {isa = PBXBuildFile; fileRef = 19D6900B19A1CE5500FDED4C /* Dictionary.m */; };
+		19D6901419A1D1D700FDED4C /* Back Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 19D6900D19A1D1D700FDED4C /* Back Button.png */; };
+		19D6901519A1D1D700FDED4C /* Facebook.png in Resources */ = {isa = PBXBuildFile; fileRef = 19D6900E19A1D1D700FDED4C /* Facebook.png */; };
+		19D6901719A1D1D700FDED4C /* Retry.png in Resources */ = {isa = PBXBuildFile; fileRef = 19D6901019A1D1D700FDED4C /* Retry.png */; };
+		19D6901819A1D1D700FDED4C /* Share.png in Resources */ = {isa = PBXBuildFile; fileRef = 19D6901119A1D1D700FDED4C /* Share.png */; };
+		19D6901919A1D1D700FDED4C /* Social.png in Resources */ = {isa = PBXBuildFile; fileRef = 19D6901219A1D1D700FDED4C /* Social.png */; };
+		19D6901A19A1D1D700FDED4C /* Submit Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 19D6901319A1D1D700FDED4C /* Submit Button.png */; };
+		19D6901C19A1D59600FDED4C /* wordlist.txt in Resources */ = {isa = PBXBuildFile; fileRef = 19D6901B19A1D59600FDED4C /* wordlist.txt */; };
+		19D6901E19A1E01700FDED4C /* ShareButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 19D6901D19A1E01700FDED4C /* ShareButton.png */; };
+		19D6902019A1E4FA00FDED4C /* LAIKA.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 19D6901F19A1E4FA00FDED4C /* LAIKA.ttf */; };
+		19D6902219A1E74B00FDED4C /* MenuButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 19D6902119A1E74B00FDED4C /* MenuButton.png */; };
+		19D6902619A1E7D700FDED4C /* MenuBoard.png in Resources */ = {isa = PBXBuildFile; fileRef = 19D6902519A1E7D700FDED4C /* MenuBoard.png */; };
+		19D6902819A1EE0600FDED4C /* Background_Statistics2.png in Resources */ = {isa = PBXBuildFile; fileRef = 19D6902719A1EE0600FDED4C /* Background_Statistics2.png */; };
+		19D6902C19A1F8BA00FDED4C /* FacebookSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19D6902B19A1F8BA00FDED4C /* FacebookSDK.framework */; };
+		19D6903019A1FFED00FDED4C /* Information Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 19D6902D19A1FFED00FDED4C /* Information Button.png */; };
+		19D6903119A1FFED00FDED4C /* Instruction Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 19D6902E19A1FFED00FDED4C /* Instruction Button.png */; };
+		19D6903219A1FFED00FDED4C /* Statistic Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 19D6902F19A1FFED00FDED4C /* Statistic Button.png */; };
+		19D6903519A2046E00FDED4C /* Statistics.m in Sources */ = {isa = PBXBuildFile; fileRef = 19D6903419A2046E00FDED4C /* Statistics.m */; };
+		19D6904719A2083200FDED4C /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19D6904619A2083200FDED4C /* AdSupport.framework */; };
+		19D6904919A2083D00FDED4C /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19D6904819A2083D00FDED4C /* AudioToolbox.framework */; };
+		19D6904B19A2084500FDED4C /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19D6904A19A2084500FDED4C /* AVFoundation.framework */; };
+		19D6904D19A2085900FDED4C /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19D6904C19A2085800FDED4C /* CoreTelephony.framework */; };
+		19D6904F19A2085F00FDED4C /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19D6904E19A2085F00FDED4C /* MessageUI.framework */; };
+		19D6905119A2086500FDED4C /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19D6905019A2086500FDED4C /* StoreKit.framework */; };
+		19D6905319A2086E00FDED4C /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19D6905219A2086E00FDED4C /* SystemConfiguration.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +118,64 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		190EE0D619A9E66D000DD52F /* 29x29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 29x29.png; sourceTree = "<group>"; };
+		190EE0D719A9E66D000DD52F /* 40x40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 40x40.png; sourceTree = "<group>"; };
+		190EE0D819A9E66D000DD52F /* 57x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 57x57.png; sourceTree = "<group>"; };
+		190EE0D919A9E66D000DD52F /* 58x58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 58x58.png; sourceTree = "<group>"; };
+		190EE0DA19A9E66D000DD52F /* 60x60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 60x60.png; sourceTree = "<group>"; };
+		190EE0DB19A9E66D000DD52F /* 72x72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 72x72.png; sourceTree = "<group>"; };
+		190EE0DC19A9E66D000DD52F /* 76x76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 76x76.png; sourceTree = "<group>"; };
+		190EE0DD19A9E66D000DD52F /* 80x80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 80x80.png; sourceTree = "<group>"; };
+		190EE0DE19A9E66D000DD52F /* 120x120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 120x120.png; sourceTree = "<group>"; };
+		190EE0DF19A9E66D000DD52F /* 152x152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 152x152.png; sourceTree = "<group>"; };
+		190EE0E019A9E66D000DD52F /* 1024x1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1024x1024.png; sourceTree = "<group>"; };
+		19384CF219A348A400195E05 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		196B7AAD19A48A85005F482F /* GADAdMobExtras.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADAdMobExtras.h; path = "../../Downloads/GoogleMobileAdsSdkiOS-6.11-2.1/GADAdMobExtras.h"; sourceTree = "<group>"; };
+		196B7AAE19A48A85005F482F /* GADAdNetworkExtras.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADAdNetworkExtras.h; path = "../../Downloads/GoogleMobileAdsSdkiOS-6.11-2.1/GADAdNetworkExtras.h"; sourceTree = "<group>"; };
+		196B7AAF19A48A85005F482F /* GADAdSize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADAdSize.h; path = "../../Downloads/GoogleMobileAdsSdkiOS-6.11-2.1/GADAdSize.h"; sourceTree = "<group>"; };
+		196B7AB019A48A85005F482F /* GADBannerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADBannerView.h; path = "../../Downloads/GoogleMobileAdsSdkiOS-6.11-2.1/GADBannerView.h"; sourceTree = "<group>"; };
+		196B7AB119A48A85005F482F /* GADBannerViewDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADBannerViewDelegate.h; path = "../../Downloads/GoogleMobileAdsSdkiOS-6.11-2.1/GADBannerViewDelegate.h"; sourceTree = "<group>"; };
+		196B7AB219A48A85005F482F /* GADInAppPurchase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADInAppPurchase.h; path = "../../Downloads/GoogleMobileAdsSdkiOS-6.11-2.1/GADInAppPurchase.h"; sourceTree = "<group>"; };
+		196B7AB319A48A85005F482F /* GADInAppPurchaseDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADInAppPurchaseDelegate.h; path = "../../Downloads/GoogleMobileAdsSdkiOS-6.11-2.1/GADInAppPurchaseDelegate.h"; sourceTree = "<group>"; };
+		196B7AB419A48A85005F482F /* GADInterstitial.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADInterstitial.h; path = "../../Downloads/GoogleMobileAdsSdkiOS-6.11-2.1/GADInterstitial.h"; sourceTree = "<group>"; };
+		196B7AB519A48A85005F482F /* GADInterstitialDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADInterstitialDelegate.h; path = "../../Downloads/GoogleMobileAdsSdkiOS-6.11-2.1/GADInterstitialDelegate.h"; sourceTree = "<group>"; };
+		196B7AB619A48A85005F482F /* GADModules.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADModules.h; path = "../../Downloads/GoogleMobileAdsSdkiOS-6.11-2.1/GADModules.h"; sourceTree = "<group>"; };
+		196B7AB719A48A85005F482F /* GADRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADRequest.h; path = "../../Downloads/GoogleMobileAdsSdkiOS-6.11-2.1/GADRequest.h"; sourceTree = "<group>"; };
+		196B7AB819A48A85005F482F /* GADRequestError.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADRequestError.h; path = "../../Downloads/GoogleMobileAdsSdkiOS-6.11-2.1/GADRequestError.h"; sourceTree = "<group>"; };
+		196B7AB919A48A85005F482F /* libGoogleAdMobAds.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libGoogleAdMobAds.a; path = "../../Downloads/GoogleMobileAdsSdkiOS-6.11-2.1/libGoogleAdMobAds.a"; sourceTree = "<group>"; };
+		196B7ABA19A48A85005F482F /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = README.txt; path = "../../Downloads/GoogleMobileAdsSdkiOS-6.11-2.1/README.txt"; sourceTree = "<group>"; };
+		196B7AC019A49A01005F482F /* Instruction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Instruction.h; path = ../Instruction.h; sourceTree = "<group>"; };
+		196B7AC119A49A01005F482F /* Instruction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Instruction.m; path = ../Instruction.m; sourceTree = "<group>"; };
+		199C1EB819ABD3A600CC87C4 /* Background_Statistics3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Background_Statistics3.png; sourceTree = "<group>"; };
+		199C1EBA19ABD46000CC87C4 /* Background_StatisticsIpad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Background_StatisticsIpad.png; sourceTree = "<group>"; };
+		199C1EC019ABFA3A00CC87C4 /* MonkeySpinning.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MonkeySpinning.mp3; sourceTree = "<group>"; };
+		199C1EC219ABFD7200CC87C4 /* Tap.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Tap.mp3; sourceTree = "<group>"; };
+		199C1EC419ABFDD700CC87C4 /* Tap2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Tap2.mp3; sourceTree = "<group>"; };
+		199C1EC619ABFF3E00CC87C4 /* Losing.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Losing.mp3; sourceTree = "<group>"; };
+		199C1EC819AC02D900CC87C4 /* Continue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Continue.png; sourceTree = "<group>"; };
+		199C1ECA19AC095500CC87C4 /* LargeCrowdApplause.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = LargeCrowdApplause.mp3; sourceTree = "<group>"; };
+		199C1ECC19AC72D100CC87C4 /* SoundOFF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SoundOFF.png; sourceTree = "<group>"; };
+		199C1ECD19AC72D100CC87C4 /* SoundON.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SoundON.png; sourceTree = "<group>"; };
+		199C1ED419AD29DF00CC87C4 /* Instruction_ InGameGuessing_GetHelp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Instruction_ InGameGuessing_GetHelp.png"; sourceTree = "<group>"; };
+		199C1ED519AD29DF00CC87C4 /* Instruction_Ingame_AfterAnswer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Instruction_Ingame_AfterAnswer.png; sourceTree = "<group>"; };
+		199C1ED619AD29DF00CC87C4 /* Instruction_InGameGuessing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Instruction_InGameGuessing.png; sourceTree = "<group>"; };
+		199C1EDA19AD754200CC87C4 /* InformationIpad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InformationIpad.png; sourceTree = "<group>"; };
+		199C1EDB19AD754200CC87C4 /* InformationIphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InformationIphone.png; sourceTree = "<group>"; };
+		199C1EDE19AD79B700CC87C4 /* Start Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Start Button.png"; sourceTree = "<group>"; };
+		199E460B19A926740002E81E /* 109582.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 109582.txt; sourceTree = "<group>"; };
+		199E460D19A92EBD0002E81E /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		199E460E19A92EBD0002E81E /* Default-Portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Portrait.png"; sourceTree = "<group>"; };
+		199E460F19A92EBD0002E81E /* Default-Portrait@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Portrait@2x.png"; sourceTree = "<group>"; };
+		199E461019A92EBD0002E81E /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		19A3002D19AB0C7400B4D5DA /* GetLife1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GetLife1.png; sourceTree = "<group>"; };
+		19A3002E19AB0C7400B4D5DA /* GetLife2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GetLife2.png; sourceTree = "<group>"; };
+		19A3003119AB0DF000B4D5DA /* Home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Home.png; sourceTree = "<group>"; };
+		19A3003319AB198800B4D5DA /* Randomize_Instruction.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Randomize_Instruction.png; sourceTree = "<group>"; };
+		19A3003419AB198800B4D5DA /* WordGuessInstruction.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WordGuessInstruction.png; sourceTree = "<group>"; };
+		19A3003919AB200800B4D5DA /* Name.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Name.png; sourceTree = "<group>"; };
+		19A3003D19AB273C00B4D5DA /* Level Up.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Level Up.png"; sourceTree = "<group>"; };
+		19A33CA319A643D4009C4421 /* Exit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Exit.png; sourceTree = "<group>"; };
+		19A33CA519A64769009C4421 /* Lives1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Lives1.png; sourceTree = "<group>"; };
 		19D68FB319A1C7DE00FDED4C /* Word War III.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Word War III.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		19D68FB619A1C7DE00FDED4C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		19D68FB819A1C7DE00FDED4C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -55,6 +196,48 @@
 		19D68FE019A1C7DE00FDED4C /* Word War IIITests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Word War IIITests-Info.plist"; sourceTree = "<group>"; };
 		19D68FE219A1C7DE00FDED4C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		19D68FE419A1C7DE00FDED4C /* Word_War_IIITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Word_War_IIITests.m; sourceTree = "<group>"; };
+		19D68FEE19A1C90900FDED4C /* General_Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = General_Background.png; sourceTree = "<group>"; };
+		19D68FF019A1C92B00FDED4C /* BackgroundRandomGame.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BackgroundRandomGame.png; sourceTree = "<group>"; };
+		19D68FF219A1C93400FDED4C /* BackgroundGuessingGame.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BackgroundGuessingGame.png; sourceTree = "<group>"; };
+		19D68FF419A1CA2A00FDED4C /* buttons1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buttons1.png; sourceTree = "<group>"; };
+		19D68FF519A1CA2A00FDED4C /* buttons2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buttons2.png; sourceTree = "<group>"; };
+		19D68FF619A1CA2A00FDED4C /* buttons3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buttons3.png; sourceTree = "<group>"; };
+		19D68FF719A1CA2A00FDED4C /* buttons4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buttons4.png; sourceTree = "<group>"; };
+		19D68FF819A1CA2A00FDED4C /* buttons5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buttons5.png; sourceTree = "<group>"; };
+		19D68FF919A1CA2A00FDED4C /* buttons6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buttons6.png; sourceTree = "<group>"; };
+		19D68FFA19A1CA2A00FDED4C /* buttons7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buttons7.png; sourceTree = "<group>"; };
+		19D68FFB19A1CA2A00FDED4C /* buttons8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buttons8.png; sourceTree = "<group>"; };
+		19D6900419A1CB1000FDED4C /* RandomGame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RandomGame.h; path = ../RandomGame.h; sourceTree = "<group>"; };
+		19D6900519A1CB1000FDED4C /* RandomGame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RandomGame.m; path = ../RandomGame.m; sourceTree = "<group>"; };
+		19D6900719A1CD4B00FDED4C /* GuessingGame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GuessingGame.h; path = ../GuessingGame.h; sourceTree = "<group>"; };
+		19D6900819A1CD4B00FDED4C /* GuessingGame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GuessingGame.m; path = ../GuessingGame.m; sourceTree = "<group>"; };
+		19D6900A19A1CE5500FDED4C /* Dictionary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Dictionary.h; sourceTree = "<group>"; };
+		19D6900B19A1CE5500FDED4C /* Dictionary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Dictionary.m; sourceTree = "<group>"; };
+		19D6900D19A1D1D700FDED4C /* Back Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Back Button.png"; sourceTree = "<group>"; };
+		19D6900E19A1D1D700FDED4C /* Facebook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Facebook.png; sourceTree = "<group>"; };
+		19D6901019A1D1D700FDED4C /* Retry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Retry.png; sourceTree = "<group>"; };
+		19D6901119A1D1D700FDED4C /* Share.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Share.png; sourceTree = "<group>"; };
+		19D6901219A1D1D700FDED4C /* Social.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Social.png; sourceTree = "<group>"; };
+		19D6901319A1D1D700FDED4C /* Submit Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Submit Button.png"; sourceTree = "<group>"; };
+		19D6901B19A1D59600FDED4C /* wordlist.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = wordlist.txt; sourceTree = "<group>"; };
+		19D6901D19A1E01700FDED4C /* ShareButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ShareButton.png; sourceTree = "<group>"; };
+		19D6901F19A1E4FA00FDED4C /* LAIKA.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = LAIKA.ttf; sourceTree = "<group>"; };
+		19D6902119A1E74B00FDED4C /* MenuButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MenuButton.png; sourceTree = "<group>"; };
+		19D6902519A1E7D700FDED4C /* MenuBoard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MenuBoard.png; sourceTree = "<group>"; };
+		19D6902719A1EE0600FDED4C /* Background_Statistics2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Background_Statistics2.png; sourceTree = "<group>"; };
+		19D6902B19A1F8BA00FDED4C /* FacebookSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FacebookSDK.framework; path = ../FacebookSDK/FacebookSDK.framework; sourceTree = "<group>"; };
+		19D6902D19A1FFED00FDED4C /* Information Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Information Button.png"; sourceTree = "<group>"; };
+		19D6902E19A1FFED00FDED4C /* Instruction Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Instruction Button.png"; sourceTree = "<group>"; };
+		19D6902F19A1FFED00FDED4C /* Statistic Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Statistic Button.png"; sourceTree = "<group>"; };
+		19D6903319A2046E00FDED4C /* Statistics.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Statistics.h; path = ../Statistics.h; sourceTree = "<group>"; };
+		19D6903419A2046E00FDED4C /* Statistics.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Statistics.m; path = ../Statistics.m; sourceTree = "<group>"; };
+		19D6904619A2083200FDED4C /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = System/Library/Frameworks/AdSupport.framework; sourceTree = SDKROOT; };
+		19D6904819A2083D00FDED4C /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		19D6904A19A2084500FDED4C /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		19D6904C19A2085800FDED4C /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
+		19D6904E19A2085F00FDED4C /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		19D6905019A2086500FDED4C /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		19D6905219A2086E00FDED4C /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +245,17 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				196B7ABB19A48A85005F482F /* libGoogleAdMobAds.a in Frameworks */,
+				19384CF319A348A400195E05 /* MediaPlayer.framework in Frameworks */,
+				19D6905319A2086E00FDED4C /* SystemConfiguration.framework in Frameworks */,
+				19D6905119A2086500FDED4C /* StoreKit.framework in Frameworks */,
+				19D6904F19A2085F00FDED4C /* MessageUI.framework in Frameworks */,
+				19D6904D19A2085900FDED4C /* CoreTelephony.framework in Frameworks */,
 				19D68FB919A1C7DE00FDED4C /* CoreGraphics.framework in Frameworks */,
+				19D6904B19A2084500FDED4C /* AVFoundation.framework in Frameworks */,
+				19D6904919A2083D00FDED4C /* AudioToolbox.framework in Frameworks */,
+				19D6904719A2083200FDED4C /* AdSupport.framework in Frameworks */,
+				19D6902C19A1F8BA00FDED4C /* FacebookSDK.framework in Frameworks */,
 				19D68FBB19A1C7DE00FDED4C /* UIKit.framework in Frameworks */,
 				19D68FB719A1C7DE00FDED4C /* Foundation.framework in Frameworks */,
 			);
@@ -84,6 +277,20 @@
 		19D68FAA19A1C7DE00FDED4C = {
 			isa = PBXGroup;
 			children = (
+				196B7AAD19A48A85005F482F /* GADAdMobExtras.h */,
+				196B7AAE19A48A85005F482F /* GADAdNetworkExtras.h */,
+				196B7AAF19A48A85005F482F /* GADAdSize.h */,
+				196B7AB019A48A85005F482F /* GADBannerView.h */,
+				196B7AB119A48A85005F482F /* GADBannerViewDelegate.h */,
+				196B7AB219A48A85005F482F /* GADInAppPurchase.h */,
+				196B7AB319A48A85005F482F /* GADInAppPurchaseDelegate.h */,
+				196B7AB419A48A85005F482F /* GADInterstitial.h */,
+				196B7AB519A48A85005F482F /* GADInterstitialDelegate.h */,
+				196B7AB619A48A85005F482F /* GADModules.h */,
+				196B7AB719A48A85005F482F /* GADRequest.h */,
+				196B7AB819A48A85005F482F /* GADRequestError.h */,
+				196B7AB919A48A85005F482F /* libGoogleAdMobAds.a */,
+				196B7ABA19A48A85005F482F /* README.txt */,
 				19D68FBC19A1C7DE00FDED4C /* Word War III */,
 				19D68FDE19A1C7DE00FDED4C /* Word War IIITests */,
 				19D68FB519A1C7DE00FDED4C /* Frameworks */,
@@ -103,6 +310,15 @@
 		19D68FB519A1C7DE00FDED4C /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				19384CF219A348A400195E05 /* MediaPlayer.framework */,
+				19D6905219A2086E00FDED4C /* SystemConfiguration.framework */,
+				19D6905019A2086500FDED4C /* StoreKit.framework */,
+				19D6904E19A2085F00FDED4C /* MessageUI.framework */,
+				19D6904C19A2085800FDED4C /* CoreTelephony.framework */,
+				19D6904A19A2084500FDED4C /* AVFoundation.framework */,
+				19D6904819A2083D00FDED4C /* AudioToolbox.framework */,
+				19D6904619A2083200FDED4C /* AdSupport.framework */,
+				19D6902B19A1F8BA00FDED4C /* FacebookSDK.framework */,
 				19D68FB619A1C7DE00FDED4C /* Foundation.framework */,
 				19D68FB819A1C7DE00FDED4C /* CoreGraphics.framework */,
 				19D68FBA19A1C7DE00FDED4C /* UIKit.framework */,
@@ -114,12 +330,22 @@
 		19D68FBC19A1C7DE00FDED4C /* Word War III */ = {
 			isa = PBXGroup;
 			children = (
+				196B7AC019A49A01005F482F /* Instruction.h */,
+				196B7AC119A49A01005F482F /* Instruction.m */,
 				19D68FC519A1C7DE00FDED4C /* AppDelegate.h */,
 				19D68FC619A1C7DE00FDED4C /* AppDelegate.m */,
 				19D68FC819A1C7DE00FDED4C /* Main_iPhone.storyboard */,
 				19D68FCB19A1C7DE00FDED4C /* Main_iPad.storyboard */,
 				19D68FCE19A1C7DE00FDED4C /* ViewController.h */,
 				19D68FCF19A1C7DE00FDED4C /* ViewController.m */,
+				19D6900419A1CB1000FDED4C /* RandomGame.h */,
+				19D6900519A1CB1000FDED4C /* RandomGame.m */,
+				19D6900719A1CD4B00FDED4C /* GuessingGame.h */,
+				19D6900819A1CD4B00FDED4C /* GuessingGame.m */,
+				19D6900A19A1CE5500FDED4C /* Dictionary.h */,
+				19D6900B19A1CE5500FDED4C /* Dictionary.m */,
+				19D6903319A2046E00FDED4C /* Statistics.h */,
+				19D6903419A2046E00FDED4C /* Statistics.m */,
 				19D68FD119A1C7DE00FDED4C /* Images.xcassets */,
 				19D68FBD19A1C7DE00FDED4C /* Supporting Files */,
 			);
@@ -129,9 +355,76 @@
 		19D68FBD19A1C7DE00FDED4C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				19D68FBE19A1C7DE00FDED4C /* Word War III-Info.plist */,
+				199C1ECC19AC72D100CC87C4 /* SoundOFF.png */,
+				199C1ED419AD29DF00CC87C4 /* Instruction_ InGameGuessing_GetHelp.png */,
+				199C1ED519AD29DF00CC87C4 /* Instruction_Ingame_AfterAnswer.png */,
+				199C1ED619AD29DF00CC87C4 /* Instruction_InGameGuessing.png */,
+				199C1ECD19AC72D100CC87C4 /* SoundON.png */,
+				199E460B19A926740002E81E /* 109582.txt */,
+				190EE0D619A9E66D000DD52F /* 29x29.png */,
+				199C1EDA19AD754200CC87C4 /* InformationIpad.png */,
+				199C1EDB19AD754200CC87C4 /* InformationIphone.png */,
+				190EE0D719A9E66D000DD52F /* 40x40.png */,
+				199C1EDE19AD79B700CC87C4 /* Start Button.png */,
+				199C1EC819AC02D900CC87C4 /* Continue.png */,
+				199C1EC619ABFF3E00CC87C4 /* Losing.mp3 */,
+				199C1ECA19AC095500CC87C4 /* LargeCrowdApplause.mp3 */,
+				19A3003919AB200800B4D5DA /* Name.png */,
+				199C1EBA19ABD46000CC87C4 /* Background_StatisticsIpad.png */,
+				199C1EC219ABFD7200CC87C4 /* Tap.mp3 */,
+				199C1EC419ABFDD700CC87C4 /* Tap2.mp3 */,
+				19A3003319AB198800B4D5DA /* Randomize_Instruction.png */,
+				199C1EC019ABFA3A00CC87C4 /* MonkeySpinning.mp3 */,
+				19A3003419AB198800B4D5DA /* WordGuessInstruction.png */,
+				19A3003D19AB273C00B4D5DA /* Level Up.png */,
+				190EE0D819A9E66D000DD52F /* 57x57.png */,
+				19A3002D19AB0C7400B4D5DA /* GetLife1.png */,
+				19A3002E19AB0C7400B4D5DA /* GetLife2.png */,
+				190EE0D919A9E66D000DD52F /* 58x58.png */,
+				190EE0DA19A9E66D000DD52F /* 60x60.png */,
+				190EE0DB19A9E66D000DD52F /* 72x72.png */,
+				190EE0DC19A9E66D000DD52F /* 76x76.png */,
+				190EE0DD19A9E66D000DD52F /* 80x80.png */,
+				190EE0DE19A9E66D000DD52F /* 120x120.png */,
+				190EE0DF19A9E66D000DD52F /* 152x152.png */,
+				190EE0E019A9E66D000DD52F /* 1024x1024.png */,
+				19D68FF219A1C93400FDED4C /* BackgroundGuessingGame.png */,
+				19D68FF019A1C92B00FDED4C /* BackgroundRandomGame.png */,
+				19D68FF419A1CA2A00FDED4C /* buttons1.png */,
+				199E460D19A92EBD0002E81E /* Default-568h@2x.png */,
+				199E460E19A92EBD0002E81E /* Default-Portrait.png */,
+				199E460F19A92EBD0002E81E /* Default-Portrait@2x.png */,
+				199E461019A92EBD0002E81E /* Default@2x.png */,
+				19D6902D19A1FFED00FDED4C /* Information Button.png */,
+				19D6902E19A1FFED00FDED4C /* Instruction Button.png */,
+				19D6902F19A1FFED00FDED4C /* Statistic Button.png */,
+				19D68FF519A1CA2A00FDED4C /* buttons2.png */,
+				19A3003119AB0DF000B4D5DA /* Home.png */,
+				19A33CA319A643D4009C4421 /* Exit.png */,
+				19D6901D19A1E01700FDED4C /* ShareButton.png */,
+				19D68FF619A1CA2A00FDED4C /* buttons3.png */,
+				19D68FF719A1CA2A00FDED4C /* buttons4.png */,
+				19D68FF819A1CA2A00FDED4C /* buttons5.png */,
+				199C1EB819ABD3A600CC87C4 /* Background_Statistics3.png */,
+				19D6902719A1EE0600FDED4C /* Background_Statistics2.png */,
+				19D68FF919A1CA2A00FDED4C /* buttons6.png */,
+				19D68FFA19A1CA2A00FDED4C /* buttons7.png */,
+				19A33CA519A64769009C4421 /* Lives1.png */,
+				19D6902519A1E7D700FDED4C /* MenuBoard.png */,
+				19D6901F19A1E4FA00FDED4C /* LAIKA.ttf */,
+				19D68FFB19A1CA2A00FDED4C /* buttons8.png */,
+				19D6902119A1E74B00FDED4C /* MenuButton.png */,
+				19D6900D19A1D1D700FDED4C /* Back Button.png */,
+				19D6900E19A1D1D700FDED4C /* Facebook.png */,
+				19D6901B19A1D59600FDED4C /* wordlist.txt */,
+				19D6901019A1D1D700FDED4C /* Retry.png */,
+				19D6901119A1D1D700FDED4C /* Share.png */,
+				19D6901219A1D1D700FDED4C /* Social.png */,
+				19D6901319A1D1D700FDED4C /* Submit Button.png */,
 				19D68FBF19A1C7DE00FDED4C /* InfoPlist.strings */,
+				19D68FBE19A1C7DE00FDED4C /* Word War III-Info.plist */,
 				19D68FC219A1C7DE00FDED4C /* main.m */,
+				19D68FEE19A1C90900FDED4C /* General_Background.png */,
 				19D68FC419A1C7DE00FDED4C /* Word War III-Prefix.pch */,
 			);
 			name = "Supporting Files";
@@ -202,6 +495,9 @@
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "___FULLUSERNAME___";
 				TargetAttributes = {
+					19D68FB219A1C7DE00FDED4C = {
+						DevelopmentTeam = VAUJ7GY4KD;
+					};
 					19D68FD619A1C7DE00FDED4C = {
 						TestTargetID = 19D68FB219A1C7DE00FDED4C;
 					};
@@ -231,10 +527,78 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				19A3003219AB0DF000B4D5DA /* Home.png in Resources */,
+				19D6900319A1CA2A00FDED4C /* buttons8.png in Resources */,
+				19A33CA419A643D4009C4421 /* Exit.png in Resources */,
 				19D68FCD19A1C7DE00FDED4C /* Main_iPad.storyboard in Resources */,
+				199C1EC919AC02D900CC87C4 /* Continue.png in Resources */,
+				190EE0E119A9E66D000DD52F /* 29x29.png in Resources */,
+				19D68FF319A1C93400FDED4C /* BackgroundGuessingGame.png in Resources */,
+				19D6902219A1E74B00FDED4C /* MenuButton.png in Resources */,
+				190EE0E419A9E66D000DD52F /* 58x58.png in Resources */,
+				199E460C19A926740002E81E /* 109582.txt in Resources */,
 				19D68FD219A1C7DE00FDED4C /* Images.xcassets in Resources */,
+				19D6900019A1CA2A00FDED4C /* buttons5.png in Resources */,
+				19D6903119A1FFED00FDED4C /* Instruction Button.png in Resources */,
+				199C1EC319ABFD7200CC87C4 /* Tap.mp3 in Resources */,
+				19A3003519AB198800B4D5DA /* Randomize_Instruction.png in Resources */,
+				190EE0E919A9E66D000DD52F /* 120x120.png in Resources */,
+				199C1ED919AD29DF00CC87C4 /* Instruction_InGameGuessing.png in Resources */,
+				19D6902019A1E4FA00FDED4C /* LAIKA.ttf in Resources */,
+				199E461419A92EBD0002E81E /* Default@2x.png in Resources */,
+				199C1ED819AD29DF00CC87C4 /* Instruction_Ingame_AfterAnswer.png in Resources */,
+				190EE0E719A9E66D000DD52F /* 76x76.png in Resources */,
+				19D68FFD19A1CA2A00FDED4C /* buttons2.png in Resources */,
+				199E461219A92EBD0002E81E /* Default-Portrait.png in Resources */,
+				19A3002F19AB0C7400B4D5DA /* GetLife1.png in Resources */,
+				199C1EBB19ABD46000CC87C4 /* Background_StatisticsIpad.png in Resources */,
+				190EE0E619A9E66D000DD52F /* 72x72.png in Resources */,
+				19D6903019A1FFED00FDED4C /* Information Button.png in Resources */,
+				190EE0E319A9E66D000DD52F /* 57x57.png in Resources */,
 				19D68FCA19A1C7DE00FDED4C /* Main_iPhone.storyboard in Resources */,
+				19A3003619AB198800B4D5DA /* WordGuessInstruction.png in Resources */,
+				199C1EC519ABFDD700CC87C4 /* Tap2.mp3 in Resources */,
+				19D6903219A1FFED00FDED4C /* Statistic Button.png in Resources */,
+				19D6901919A1D1D700FDED4C /* Social.png in Resources */,
+				19D6901519A1D1D700FDED4C /* Facebook.png in Resources */,
+				19D6900119A1CA2A00FDED4C /* buttons6.png in Resources */,
+				19D68FFE19A1CA2A00FDED4C /* buttons3.png in Resources */,
+				199C1EB919ABD3A600CC87C4 /* Background_Statistics3.png in Resources */,
+				199C1EDF19AD79B700CC87C4 /* Start Button.png in Resources */,
+				19D68FEF19A1C90900FDED4C /* General_Background.png in Resources */,
+				196B7ABC19A48A85005F482F /* README.txt in Resources */,
+				19D6901C19A1D59600FDED4C /* wordlist.txt in Resources */,
+				19D6902819A1EE0600FDED4C /* Background_Statistics2.png in Resources */,
+				19D68FF119A1C92B00FDED4C /* BackgroundRandomGame.png in Resources */,
+				19A33CA719A64769009C4421 /* Lives1.png in Resources */,
+				190EE0E219A9E66D000DD52F /* 40x40.png in Resources */,
+				19D6901A19A1D1D700FDED4C /* Submit Button.png in Resources */,
+				199E461319A92EBD0002E81E /* Default-Portrait@2x.png in Resources */,
+				199C1ED719AD29DF00CC87C4 /* Instruction_ InGameGuessing_GetHelp.png in Resources */,
 				19D68FC119A1C7DE00FDED4C /* InfoPlist.strings in Resources */,
+				19A3003E19AB273C00B4D5DA /* Level Up.png in Resources */,
+				19D6901E19A1E01700FDED4C /* ShareButton.png in Resources */,
+				199C1ECB19AC095500CC87C4 /* LargeCrowdApplause.mp3 in Resources */,
+				19A3003019AB0C7400B4D5DA /* GetLife2.png in Resources */,
+				19D68FFC19A1CA2A00FDED4C /* buttons1.png in Resources */,
+				199E461119A92EBD0002E81E /* Default-568h@2x.png in Resources */,
+				199C1EC119ABFA3A00CC87C4 /* MonkeySpinning.mp3 in Resources */,
+				19D6901719A1D1D700FDED4C /* Retry.png in Resources */,
+				199C1ECF19AC72D100CC87C4 /* SoundON.png in Resources */,
+				199C1EDD19AD754200CC87C4 /* InformationIphone.png in Resources */,
+				199C1EC719ABFF3E00CC87C4 /* Losing.mp3 in Resources */,
+				19D68FFF19A1CA2A00FDED4C /* buttons4.png in Resources */,
+				199C1ECE19AC72D100CC87C4 /* SoundOFF.png in Resources */,
+				19D6900219A1CA2A00FDED4C /* buttons7.png in Resources */,
+				190EE0E819A9E66D000DD52F /* 80x80.png in Resources */,
+				190EE0EB19A9E66D000DD52F /* 1024x1024.png in Resources */,
+				190EE0E519A9E66D000DD52F /* 60x60.png in Resources */,
+				19D6902619A1E7D700FDED4C /* MenuBoard.png in Resources */,
+				19A3003A19AB200800B4D5DA /* Name.png in Resources */,
+				190EE0EA19A9E66D000DD52F /* 152x152.png in Resources */,
+				19D6901419A1D1D700FDED4C /* Back Button.png in Resources */,
+				199C1EDC19AD754200CC87C4 /* InformationIpad.png in Resources */,
+				19D6901819A1D1D700FDED4C /* Share.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -254,7 +618,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				19D68FD019A1C7DE00FDED4C /* ViewController.m in Sources */,
+				19D6903519A2046E00FDED4C /* Statistics.m in Sources */,
+				196B7AC219A49A01005F482F /* Instruction.m in Sources */,
 				19D68FC719A1C7DE00FDED4C /* AppDelegate.m in Sources */,
+				19D6900919A1CD4B00FDED4C /* GuessingGame.m in Sources */,
+				19D6900C19A1CE5500FDED4C /* Dictionary.m in Sources */,
+				19D6900619A1CB1000FDED4C /* RandomGame.m in Sources */,
 				19D68FC319A1C7DE00FDED4C /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -388,12 +757,30 @@
 		19D68FE919A1C7DE00FDED4C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/Outliers/Documents/FacebookSDK,
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Word War III/Word War III-Prefix.pch";
 				INFOPLIST_FILE = "Word War III/Word War III-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"/Users/Outliers/Downloads/GoogleMobileAdsSdkiOS-6.11.1",
+					"$(PROJECT_DIR)/Word",
+					War,
+					III,
+					/Users/Outliers/Desktop/Ad,
+					"/Users/Outliers/Downloads/GoogleMobileAdsSdkiOS-6.11-2.1",
+				);
+				OTHER_CODE_SIGN_FLAGS = "";
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "ce763a8c-81f4-483e-a3f5-ba2a74586e2c";
+				VALIDATE_PRODUCT = NO;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -401,12 +788,30 @@
 		19D68FEA19A1C7DE00FDED4C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/Outliers/Documents/FacebookSDK,
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Word War III/Word War III-Prefix.pch";
 				INFOPLIST_FILE = "Word War III/Word War III-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"/Users/Outliers/Downloads/GoogleMobileAdsSdkiOS-6.11.1",
+					"$(PROJECT_DIR)/Word",
+					War,
+					III,
+					/Users/Outliers/Desktop/Ad,
+					"/Users/Outliers/Downloads/GoogleMobileAdsSdkiOS-6.11-2.1",
+				);
+				OTHER_CODE_SIGN_FLAGS = "";
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "ce763a8c-81f4-483e-a3f5-ba2a74586e2c";
+				VALIDATE_PRODUCT = YES;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -470,6 +875,7 @@
 				19D68FEA19A1C7DE00FDED4C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		19D68FEB19A1C7DE00FDED4C /* Build configuration list for PBXNativeTarget "Word War IIITests" */ = {
 			isa = XCConfigurationList;
@@ -478,6 +884,7 @@
 				19D68FED19A1C7DE00FDED4C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
